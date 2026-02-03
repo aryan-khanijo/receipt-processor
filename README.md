@@ -18,6 +18,7 @@ This is a full-stack solution for automatically processing scanned PDF receipts.
 2. Install dependencies for the backend:
    ```bash
    npm install
+   npm run migrate
    ```
 
 3. Install dependencies for the frontend:

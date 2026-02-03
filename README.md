@@ -125,7 +125,7 @@ Gets details of a specific receipt.
     "purchased_at": "2024-05-12",
     "total_amount": 124.50,
     "tax_amount": 8.50,
-    "currency": "$"
+    "currency": "USD"
   }
 }
 ```
